@@ -7,15 +7,15 @@ export const navLinks = [
   },
   {
     id: "recursos",
-    title: "Features",
+    title: "recursos",
   },
   {
     id: "produtos",
-    title: "Product",
+    title: "produtos",
   },
   {
     id: "clientes",
-    title: "Clients",
+    title: "clientes",
   },
 ];
 
@@ -48,7 +48,7 @@ export const feedback = [
     id: "feedback-1",
     content:
       "O dinheiro é apenas uma ferramenta. Ele o levará aonde você desejar, mas não o substituirá como motorista.",
-    name: "Antônio José",
+    name: "Maria Alice",
     title: "CTO & Gestor",
     img: people01,
   },
@@ -56,7 +56,7 @@ export const feedback = [
     id: "feedback-2",
     content:
       "O dinheiro facilita a sua vida. Se você tem sorte de tê-lo, você tem sorte.",
-    name: "Bob Mark",
+    name: "Gustavo Fernandes",
     title: "Gerente geral",
     img: people02,
   },
